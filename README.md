@@ -28,7 +28,6 @@ To evaluate the performance of UAV-assisted edge computing through simulation, c
 | `inference_results.json` | Precomputed YOLOv3 inference statistics for faster simulation setup. |
 | `simulation_results.json` | Output of a simulation run — includes data such as energy consumption, latency, SNR, fairness, task completion, etc. |
 | `requirements.txt` | Python dependencies needed to run the project. |
-| `yolov3/` | YOLOv3 model directory (includes weights and architecture). |
 | `yolo_images/` | Sample image set used during inference simulations. |
 
 ## 📦 Installation
