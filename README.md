@@ -35,8 +35,8 @@ To evaluate the performance of UAV-assisted edge computing through simulation, c
 Make sure Python 3.8+ is installed. Then install or required dependencies to run the code of the repository:
 
 ```bash
-git clone https://github.com/YourUsername/EAId-AIR.git
-cd EAId-AIR
+git clone https://github.com/AlvaroSolana/SkyEdgeAI.git
+cd SkyEdgeAI
 pip install -r requirements.txt
 ```
 
