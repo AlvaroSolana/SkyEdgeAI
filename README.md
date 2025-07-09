@@ -24,7 +24,7 @@ To evaluate the performance of UAV-assisted edge computing through simulation, c
 | `channel_model.py` | Implements wireless channel modeling (Path Loss, Rician fading, Doppler, shadowing, SNR, spectral efficiency). |
 | `environment.py` | Defines the UAV and the user class with all their features. It also models the UAV mobility. |
 | `task_managment.py` | Manages task creation, offloading decisions, queueing, processing, and energy-latency trade-offs. |
-| `config1.json` | Example simulation configuration containing all adjustable parameters from the GUI. |
+| `config_parameters.json` | Example simulation configuration containing all adjustable parameters from the GUI. |
 | `inference_results.json` | Precomputed YOLOv3 inference statistics for faster simulation setup. |
 | `simulation_results.json` | Output of a simulation run — includes data such as energy consumption, latency, SNR, fairness, task completion, etc. |
 | `requirements.txt` | Python dependencies needed to run the project. |
